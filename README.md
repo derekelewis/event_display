@@ -1,5 +1,5 @@
 # event_display
-Repository for arm64 knative event_display container image
+Repository for knative event_display arm64 container image
 
 ```
 export KO_DOCKER_REPO=ghcr.io/derekelewis/event_display
